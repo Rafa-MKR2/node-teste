@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Rafael D.carmo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
